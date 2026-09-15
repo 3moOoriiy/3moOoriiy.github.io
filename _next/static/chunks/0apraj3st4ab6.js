@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,75724,e=>{"use strict";var t=e.i(43476),i=e.i(18566),o=e.i(72111);e.s(["GeneratedQuestion",0,function(){return(0,t.jsx)(o.QuestionRoute,{id:(0,i.useSearchParams)().get("id")??""})}])}]);
